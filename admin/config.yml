@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: ItalianCoders/italiancoders-netlify-website
-  base_url: https:///italiancoders-netlify-auth.now.sh
+  base_url: https://italiancoders-netlify-auth.now.sh
   auth_endpoint: auth
 
 publish_mode: editorial_workflow
