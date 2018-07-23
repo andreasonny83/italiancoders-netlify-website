@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "ItalianCoders",
   "bugs": {
-    "url": "https://github.com/ItalianCoders/italiancoders-netlify-website/issues"
+    "url": "https://github.com/andreasonny83/italiancoders-netlify-website/issues"
   },
   "dependencies": {
     "gatsby": "next",
@@ -41,7 +41,7 @@
     "gh-pages": "^1.2.0",
     "prettier": "^1.12.0"
   },
-  "homepage": "https://italiancoders.github.io/italiancoders-netlify-website",
+  "homepage": "https://andreasonny83.github.io/italiancoders-netlify-website",
   "keywords": [
     "gatsby"
   ],
@@ -49,7 +49,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ItalianCoders/italiancoders-netlify-website.git"
+    "url": "git+https://github.com/andreasonny83/italiancoders-netlify-website.git"
   },
   "scripts": {
     "dev": "gatsby develop",
