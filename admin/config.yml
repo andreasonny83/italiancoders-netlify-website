@@ -14,7 +14,6 @@ collections:
   - name: "blog"
     label: "Blog"
     folder: "src/pages/blog"
-    slug: {{name}}
     create: true
     fields:
     - {label: "Title", name: "title", widget: "string"}
