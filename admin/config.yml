@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: master
-  repo: ItalianCoders/italiancoders-netlify-website
+  repo: andreasonny83/italiancoders-netlify-website
   base_url: https://italiancoders-netlify-auth.now.sh
   auth_endpoint: auth
 
